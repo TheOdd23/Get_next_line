@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "../bon_includes/get_next_line_bonus.h"
 
 void	ft_bzero(void *str, size_t n)
 {
